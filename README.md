@@ -4,7 +4,7 @@ This is an implementation of the Ramer-Douglas-Peucker curve simplification algo
 
 ## License
 
-This work is licensed under the [MIT License](LICENSE).
+This work is licensed under the [MIT License](LICENSE.md).
 
 ## Credits
 
