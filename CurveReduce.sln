@@ -7,11 +7,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{836BE8B9-576C-46AA-81F2-706633BAE50C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		CurveReduceExcel.zip = CurveReduceExcel.zip
 		LICENSE.md = LICENSE.md
 		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveReduceDemo", "CurveReduceDemo\CurveReduceDemo.csproj", "{833B4C5B-47FD-40AD-B0A4-2ACEEB912FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveReduceExcel", "CurveReduceExcel\CurveReduceExcel.csproj", "{82D8658D-C2D5-4204-B71D-B61F20B7C590}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +38,14 @@ Global
 		{833B4C5B-47FD-40AD-B0A4-2ACEEB912FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{833B4C5B-47FD-40AD-B0A4-2ACEEB912FD2}.Release|x86.ActiveCfg = Release|Any CPU
 		{833B4C5B-47FD-40AD-B0A4-2ACEEB912FD2}.Release|x86.Build.0 = Release|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Debug|x86.Build.0 = Debug|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Release|x86.ActiveCfg = Release|Any CPU
+		{82D8658D-C2D5-4204-B71D-B61F20B7C590}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

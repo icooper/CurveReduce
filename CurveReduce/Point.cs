@@ -41,6 +41,10 @@ namespace CurveReduce
             return $"Point({X}, {Y})";
         }
 
+        public double[] ToArray() {
+            return new double[] { X, Y };
+        }
+
         public double Distance(Point point) => Math.Sqrt(DistanceSq(point));
         protected double DistanceSq(Point point) => Math.Pow(X - point.X, 2) + Math.Pow(Y - point.Y, 2);
 
