@@ -1,6 +1,6 @@
 {
   "name": "curvereduce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Curve simplification using the Ramer-Douglas-Peucker algorithm.",
   "main": "./dist/bundle.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/icooper/CurveReduce/issues"
   },
-  "homepage": "https://github.com/icooper/CurveReduce#readme",
+  "homepage": "https://github.com/icooper/CurveReduce/tree/main/CurveReduceJS#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/node": "^14.14.31",
