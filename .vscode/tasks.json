@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build-watch",
+			"path": "CurveReduceJS/",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"group": "build",
+			"label": "npm: build-watch - CurveReduceJS",
+			"detail": "tsc --watch",
+			"isBackground": true
+		}
+	]
+}

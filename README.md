@@ -1,6 +1,6 @@
 # CurveReduce
 
-This is an implementation of the Ramer-Douglas-Peucker (RDP) curve simplification algorithm.
+This repository contains implementations of the Ramer-Douglas-Peucker (RDP) curve simplification algorithm in C# and JavaScript.
 
 ## License
 
