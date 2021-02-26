@@ -1,6 +1,6 @@
 {
   "name": "curvereduce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Curve simplification using the Ramer-Douglas-Peucker algorithm.",
   "main": "./dist/bundle.js",
   "scripts": {
