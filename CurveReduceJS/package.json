@@ -1,13 +1,11 @@
 {
   "name": "curvereduce",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Curve simplification using the Ramer-Douglas-Peucker algorithm.",
-  "main": "./dist/bundle.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "build-watch": "tsc --watch",
-    "webpack": "webpack",
-    "webpack-watch": "webpack --watch",
     "start": "node dist",
     "test": "jest --verbose"
   },
@@ -28,8 +26,6 @@
     "ts-jest": "^26.5.2",
     "ts-loader": "^8.0.17",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.2",
-    "webpack": "^5.24.2",
-    "webpack-cli": "^4.5.0"
+    "typescript": "^4.2.2"
   }
 }
